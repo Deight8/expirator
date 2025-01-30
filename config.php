@@ -2,10 +2,10 @@
 // config.php
 
 // Definování proměnných pro připojení k databázi
-$host = 'md414.wedos.net';       // Adresa serveru databáze
-$dbname = 'd258752_expi'; // Název databáze
-$username = 'a258752_expi'; // Uživatelské jméno
-$password = 'dkGGsCnC'; // Heslo
+$host = '';       // Adresa serveru databáze
+$dbname = ''; // Název databáze
+$username = ''; // Uživatelské jméno
+$password = ''; // Heslo
 
 try {
     // Vytvoření nového PDO objektu pro připojení k databázi
